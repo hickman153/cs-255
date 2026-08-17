@@ -56,8 +56,10 @@ This approach provides traceability from the user's needs to the final design an
 
 ## Repository Contents
 
-- **Project One – Business Requirements Document**  
-  Analysis of the DriverPass business requirements, system requirements, assumptions, limitations, and project planning.
+- [DriverPass Business Requirements](DriverPass_Business_Requirements.docx)  
+  Analysis of the DriverPass business requirements, system requirements,
+  assumptions, limitations, and project planning.
 
-- **Project Two – System Design Document**  
-  System design presentation containing technical requirements and UML models describing the proposed DriverPass system.
+- [DriverPass System Design](DriverPass_System_Design.docx)  
+  System design documentation containing technical requirements and UML
+  models describing the proposed DriverPass system.
