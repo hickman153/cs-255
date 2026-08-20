@@ -54,7 +54,7 @@ This approach provides traceability from the user's needs to the final design an
 
 ## Repository Contents
 
-- [DriverPass Business Requirements](CS%20255%20Business%20Requirements%20Document%20Hickman.doc)  
+- [DriverPass Business Requirements](CS%20255%20Business%20Requirements%20Document%20Hickman.docx)  
   Analysis of the DriverPass business requirements, system requirements,
   assumptions, limitations, and project planning.
 
